@@ -65,7 +65,7 @@ Unlock the full power of VaporID with a **Pro Subscription** — built for profe
 
 ## 📸 Screenshots
 
-> _Add real screenshots or hosted images in your repo or external service._
+
 
 🧬 **Home Page**  
 ![Identity Generator](https://github.com/alive-xd/VaporID/blob/3f8bb145961dbcc12f529a79c1c50216b6d9086f/Screenshot%202025-06-10%20122542.png)
