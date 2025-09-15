@@ -89,9 +89,10 @@ Your support helps with development, hosting, and the continuous rollout of prem
 
 - **Frontend**: Next.js, Tailwind CSS  
 - **Backend**: Vercel Serverless Functions  
-- **Reporting & API**: PDF/CSV/JSON export, REST API endpoint  
-- **Security**: Local environment configs, no stored data, full sandbox  
-- **Additional Features**: Batch/multi-URL scanning, CI/CD integration, educational tooltips
+- **Identity Engine**: Custom synthetic data modules  
+- **Face Generator**: AI-powered generation & selection filters  
+- **Email API**: Temp Mail Services Integration  
+- **Security**: Local environment configs, no stored data, full sandbox
 
 
 ---
